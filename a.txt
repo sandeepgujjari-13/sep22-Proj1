@@ -1,1 +1,3 @@
 hello a.txt
+somechnages made by user1
+second line
