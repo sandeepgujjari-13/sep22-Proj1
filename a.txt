@@ -3,3 +3,6 @@ somechnages made by user1
 second line
 some changes in a.txt
 some more lines
+rewriteen by issue50 and removed all the lines.
+
+Final closur[1;5Cgate.
