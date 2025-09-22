@@ -1,2 +1,4 @@
-I am rewriting a.txt and
+I am rewriting a.txt and
 adding some more lines
+
+updated txt file
