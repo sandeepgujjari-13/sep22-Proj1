@@ -1,3 +1,2 @@
-hello a.txt
-somechnages made by user1
-second line
+I am rewriting a.txt and
+adding some more lines
